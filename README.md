@@ -21,3 +21,21 @@ func main() {
 ```
 
 > Cleveland Cavaliers
+
+### NFL
+
+```go
+package main
+
+import (
+	"fmt"
+
+	"github.com/notwithering/sport/nfl"
+)
+
+func main() {
+	fmt.Println(nfl.CincinnatiFullTeam)
+}
+```
+
+> Cincinnati Bengals
