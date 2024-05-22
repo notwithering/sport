@@ -12,7 +12,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/notwithering/sport/nba"
+	nba "github.com/notwithering/sport/NBA"
 )
 
 func main() {
@@ -30,7 +30,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/notwithering/sport/nfl"
+	nfl "github.com/notwithering/sport/NFL"
 )
 
 func main() {
